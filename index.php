@@ -8,6 +8,7 @@
 </head>
 <body>
      <h1>cesar Alberto Gonzalez Rivera</h1>
+     <h2> "git push origin master" agregar los cambios al repositorio de github"</h2>
     
 </body>
 </html>
